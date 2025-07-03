@@ -14,18 +14,6 @@ Whether you're scraping the web, anonymizing traffic, or building a proxy pool, 
 
 ---
 
-## 📸 Screenshots
-
-### 🔄 Fetching Proxies
-![Fetching Proxies](https://github.com/user-attachments/assets/a47af9af-cdcd-480b-a35b-7c359f9d81fb)
-
----
-
-### ✅ Checking Proxies (Multi-threaded)
-![Checking Proxies](https://github.com/user-attachments/assets/77ef518b-2e72-48a4-95ac-e3ea8bf7babd)
-
----
-
 ## 🛠️ Installation
 
 ```bash
@@ -48,12 +36,6 @@ python main.py -c <count>
 python main.py -f <proxies>
 python main.py -f <proxies> -t <thread>
 ```
-
-### 📁 Output
-Working proxies are saved to:
-- `working_proxies.txt`
-
----
 
 ## 🤝 Contributing
 
